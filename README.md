@@ -1,16 +1,20 @@
-### Hi there 👋
+# PRESIDENTE - LULA É 13! - TREINO DE MARKDOWN
 
-<!--
-**Ronaldo913/Ronaldo913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## O MELHOR PRESIDENTE DO MUNDO :raised_hands:
+![lula](https://user-images.githubusercontent.com/103396752/168420939-86d9a193-d7f5-4d32-b3c1-6aa17d7068b4.png)
 
-Here are some ideas to get you started:
+[Acesse meu GitHub](https://github.com/Ronaldo913)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### `Tabela`
+
+Numero | Nome | Nota
+---|---|---
+1 | Luiz Inácio Lula | 1000
+2 | Dilma Rousseff | 1000
+3 | Burro Bolsonaro | 0
+
+Olha meu ~~programa~~
+
+```
+System.out.print("Hello, World");
+```
