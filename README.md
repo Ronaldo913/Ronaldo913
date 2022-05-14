@@ -1,7 +1,10 @@
 # PRESIDENTE - LULA É 13! - TREINO DE MARKDOWN
 
 ## O MELHOR PRESIDENTE DO MUNDO :raised_hands:
-![lula](https://user-images.githubusercontent.com/103396752/168420939-86d9a193-d7f5-4d32-b3c1-6aa17d7068b4.png)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/103396752/168420939-86d9a193-d7f5-4d32-b3c1-6aa17d7068b4.png" style="width:400px; height:400px;" />
+ </div>
 
 [Acesse meu GitHub](https://github.com/Ronaldo913)
 
