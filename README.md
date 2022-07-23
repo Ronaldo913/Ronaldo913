@@ -3,25 +3,9 @@
 
 
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px>  About me
-## O MELHOR PRESIDENTE DO MUNDO :raised_hands:
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/103396752/168420939-86d9a193-d7f5-4d32-b3c1-6aa17d7068b4.png" style="width:400px; height:400px;" />
- </div>
-
-[Acesse meu GitHub](https://github.com/Ronaldo913)
-
-#### `Tabela`
-
-Numero | Nome | Nota
----|---|---
-1 | Luiz Inácio Lula | 1000
-2 | Dilma Rousseff | 1000
-3 | Burro Bolsonaro | 0
-
-Olha meu ~~programa~~
-
-```
-System.out.print("Hello, World");
-```
-
+- Hello Everyone 👋, My name is Ronaldo.<br>
+- I'm a computer technician student at the Federal Institute of Alagoas - Campus Arapiraca👨‍💻.<br>
+- I'm interested in front-end development and interests in apss development in Flutter and/or React native:sparkler:.<br>
+- Presently, I'm developing Softwares & apps with Flutter.
+- You can see my portfolio at [Instagram](http://www.instagram.com/codewithflexz)<br>
