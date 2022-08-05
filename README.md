@@ -6,7 +6,7 @@
 
 - Hello Everyone 👋, My name is Ronaldo.<br>
 - I'm a computer technician student at the Federal Institute of Alagoas - Campus Arapiraca👨‍💻.<br>
-- I'm interested in front-end development and interests in apss development in Flutter and/or React native:sparkler:.<br>
+- I'm interested in front-end development and interests in aps development in Flutter and/or React native:sparkler:.<br>
 - Presently, I'm developing Softwares & apps with Flutter.<br>
   
 ### Skills
