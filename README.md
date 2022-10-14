@@ -9,7 +9,7 @@
 - Presently, I'm developing Softwares & apps with Flutter.<br>
 
 <h3>📊 Statistics:</h3>
- <div>
+ <div align="center">
   <a href="https://github.com/Ronaldo913">
   <img align = "center" height="170em" src="https://github-readme-stats.vercel.app/api?username=Ronaldo913&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img align = "center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronaldo913&layout=compact&langs_count=7&theme=github_dark"/></br></br>
@@ -19,7 +19,6 @@
 
  <div style="display: inline_block">
   
-  ##
   
 ### Skills
   
