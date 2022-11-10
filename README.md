@@ -2,7 +2,7 @@
  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ronaldo+Noberto+dos+Santos;I'm+17+years+old;I'm+from+Arapiraca,+AL;I+study+Computing+at+IFAL;Be+Welcome!+:%29)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Ronaldo+Noberto+dos+Santos;I'm+17+years+old;I'm+from+Arapiraca,+AL;I+study+Computing+at+IFAL;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px>  About me
 
